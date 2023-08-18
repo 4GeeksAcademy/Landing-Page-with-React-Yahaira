@@ -10,3 +10,17 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+.header {
+    background-color: rgb(53, 53, 53);
+    padding-left: 30px;
+    color: lightgray;
+}
+.jumbotron {
+    background-color: lightgrey;
+}
+.footer {
+    background-color: rgb(53, 53, 53);
+    padding-left: 30px;
+    color: lightgray;
+    text-align: center;
+}
