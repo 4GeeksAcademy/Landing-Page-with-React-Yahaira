@@ -22,7 +22,7 @@ const Home = () => {
 				</div>
 				<div className="col-sm-4 col-md-3 mb-3"><Cards img="https://storage.mlcdn.com/account_image/351654/Ny1fXCWSRPCdTlNb2JDgJQ7cGzCNKexrCltNDZmF.png" title="Cultura Sorda" text="Cuando aprendés con profesores sordos, te estás envolviendo en la riqueza de una cultura con sus propios valores, identidades y perspectivas."/>
 				</div>
-				<div className="col-sm-4 col-md-3 mb-3"><Cards img="https://storage.mlcdn.com/account_image/351654/Tm6K921qHh8STtJyLnsm4WQWcBjnoD8ocsjluqUU.png" title="Experiencia" text="Tenemos 8 años de constante mejora y actualización de los servicios que ofrecemos "/>
+				<div className="col-sm-4 col-md-3 mb-3"><Cards img="https://storage.mlcdn.com/account_image/351654/Tm6K921qHh8STtJyLnsm4WQWcBjnoD8ocsjluqUU.png" title="Experiencia" text="Tenemos 8 años de constante mejora y actualización de los servicios que ofrecemos. somos los mas reconocidos a nivel nacional"/>
 				</div>
 				<div className="col-sm-4 col-md-3 mb-3"><Cards img="https://storage.mlcdn.com/account_image/351654/VlBaX3fJuoNOYzi9b8WeeTJOWBA7VYPFsRlBArIJ.png" title="Comunidad" text="Nuestra comunidad es inclusiva, diversa y comprometida con ser parte de un cambio. Podrás interactuar con personas sordas y oyentes"/>
 				</div>
